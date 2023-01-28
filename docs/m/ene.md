@@ -1,6 +1,6 @@
-# Lecturas Bíblicas durante el Mes de Enero 2023
+# Lecturas Bíblicas durante el Mes de Enero 2023 :
 
-## 27 de enero de 2023
+## 27 de enero de 2023 :material-calendar-month-outline:
 ???+ abstract "2nda Timoteo 2:14-16"
     __Versiculos__:
 
@@ -10,7 +10,7 @@
     
     __Mensaje Aprendido__:
 
-    - De acuerdo a los textos bíblicos
+    - De acuerdo a los textos bíblicos y referencias, este mensaje viene de parte como consejo de Pablo hacia Timoteo.
 
 
 
