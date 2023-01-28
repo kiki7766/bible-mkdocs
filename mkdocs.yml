@@ -4,6 +4,7 @@ site_author: PG
 site_description: >-
   This site will be for posting monthly Bible cited verses.
 
+
 # Repository
 repo_name: kiki7766/python-mkdocs
 repo_url: https://github.com/kiki7766/python-mkdocs
@@ -14,6 +15,9 @@ copyright: Copyright &copy; 2023 Reina-Valera (1960) & Hakuna Wonderland by PG
 # Configuration of Personal Page
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/book-bible
+  favicon: fontawesome/solid/book-bible
   features:
     - content.tooltips
     - content.code.annotate
@@ -24,12 +28,23 @@ theme:
     # - navigation.tabs
     - navigation.footer
   palette:
-    - scheme: slate
+    - scheme: default
       primary: indigo
-      accent: aqua
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: slate
+      primary: lime
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
   font:
     text: Roboto
     code: Console Lucida
+
+
 # Plugins
 plugins:
   - search:

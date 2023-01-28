@@ -4,7 +4,7 @@ En esta página encontrarás un diario de versículos leídos (de la Biblia)
 
 ## Biblia Utilizada :fontawesome-solid-book-bible:
 
-* `Reina-Valera (1960)` - Se utiliza esta versión de Biblia ya que me siento comod@ 
+* `Reina-Valera (1960)` - Se utiliza esta versión de Biblia ya que es la más utilizada en lecturas bíblicas. 
 
 ## Enfoque de proyecto :material-folder-eye:
 
