@@ -1,0 +1,87 @@
+site_name: Challenge Bíblico
+# site_url: https://kiki7766.github.io/python-mkdocs/
+site_author: PG
+site_description: >-
+  This site will be for posting monthly Bible cited verses.
+
+# Repository
+repo_name: kiki7766/python-mkdocs
+repo_url: https://github.com/kiki7766/python-mkdocs
+
+# Copyrights
+copyright: Copyright &copy; 2023 Reina-Valera (1960) & Hakuna Wonderland by PG
+
+# Configuration of Personal Page
+theme:
+  name: material
+  features:
+    - content.tooltips
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.sections
+    # - content.tabs.link
+    # - navigation.tabs
+    - navigation.footer
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: aqua
+  font:
+    text: Roboto
+    code: Console Lucida
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+# Customization
+extra: 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kiki7766
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/kiki7766_peggy
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/kiki7766
+    - icon: fontawesome/brands/deviantart
+      link: https://deviantart.com/kiki7766   
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tilde
+
+
+# Page Tree (FINALLY)
+nav:
+  - Home: index.md
+  - Historial de Lecturas:
+    - Enero 2023: m/ene.md
+    - Febrero 2023: m/feb.md  
+    - Marzo 2023: m/mar.md
+    - Abril 2023: m/abr.md
+    - Mayo 2023: m/may.md
+    - Junio 2023: m/jun.md
+    - Julio 2023: m/jul.md
+    - Agosto 2023: m/ago.md
+    - Septiembre 2023: m/sep.md
+    - Octubre 2023: m/oct.md
+    - Noviembre 2023: m/nov.md
+    - Diciembre 2023: m/dic.md
