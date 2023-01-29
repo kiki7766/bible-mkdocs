@@ -1,10 +1,13 @@
-# Bienvenid@s a mi lectura bíblica mensual :material-robot-happy:
+# Bienvenid@s a mi blog :fontawesome-solid-blog:
+## Lectura bíblica mensual :material-robot-happy:
 
-En esta página encontrarás un diario de versículos leídos (de la Biblia)
+En esta página encontrarás un diario de versículos leídos de la Santa Biblia.    
 
 ## Biblia Utilizada :fontawesome-solid-book-bible:
 
-* `Reina-Valera (1960)` - Se utiliza esta versión de Biblia ya que es la más utilizada en lecturas bíblicas. 
+* `Reina-Valera (RVR 1960)` - Se utiliza esta versión de Biblia ya que es la más utilizada en lecturas bíblicas. 
+* `Editorial Biblia - Biblia de Estudio (RVR 1960)` - Se utiliza la Biblia de estudio para obtener referencias y comentarios para entender la lectura o contexto del versículo bíblico.
+
 
 ## Enfoque de proyecto :material-folder-eye:
 
@@ -12,4 +15,8 @@ En esta página encontrarás un diario de versículos leídos (de la Biblia)
 
 ## Updates/Actualizaciones :material-update:
 
-- Durante cada día o semana, se estará actualizando con el versículo diario o semmanal correspondiente al mes.
+- Durante cada día o semana, se estará actualizando con el versículo diario o semanal correspondiente al mes.
+
+## Licencias utilizadas :material-license:
+- MIT License :material-license:
+- GNU General Public License (GPL) :material-license:
