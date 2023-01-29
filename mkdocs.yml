@@ -1,13 +1,13 @@
 site_name: Challenge Bíblico
-# site_url: https://kiki7766.github.io/python-mkdocs/
+# site_url: https://kiki7766.github.io/bible-mkdocs/
 site_author: PG
 site_description: >-
   This site will be for posting monthly Bible cited verses.
 
 
 # Repository
-repo_name: kiki7766/python-mkdocs
-repo_url: https://github.com/kiki7766/python-mkdocs
+repo_name: kiki7766/bible-mkdocs
+repo_url: https://github.com/kiki7766/bible-mkdocs
 
 # Copyrights
 copyright: Copyright &copy; 2023 Hakuna Wonderland by PG
