@@ -45,7 +45,13 @@
 
     <font size=4, color=orange>**Mensaje Aprendido**:</font>
 
-    - 
+    - En este histórico y reconocido pasaje donde la mujer de flujo de sangre fue sanada y salva por su fe. En realidad, solo pensamos que fácil sería pensar como esta mujer y me gustaría tener esa fe. 
+    - Yo en lo personal me identifico mucho con esta mujer por su condición de salud. Un poco más sobre mi, sería que yo en la actualidad tengo problemas hormonales, y esto a ocasionado que mis ciclos menstruales duren mucho más de lo usual y a veces ni me ha interesado buscar ayuda.
+    - Entonces Cuando pienso, ¿porque esta mujer ha gastado tanto dinero para resolver este problema? Tenemos que entender que este pasaje está escrito en otra época. Una mujer con este tipo de condición era rechazada y juzgada porque era "inmunda".
+    - Por ende, esto significa que ella buscaba la manera para poder ser aceptada y sentirse parte de la comunidad y no despreciada o rechaza. Buscaba sentirse limpia, sana y salva. 
+    - Aquí entonces viene la parte impresionante, ella con su fe, solo repitía varias veces: "Si tan sólo, tocase el borde de su manto, seré salva". Puedes creer, que si lo comparamos hoy día es como decir tener fe como un grano de mostaza y esa montaña se moverá y que la montaña se mueva (algo imposible... lo sé).
+    - Hay que entender, que Dios no se equivoca, Él tiene todo pre-meditado; ya tiene un propósito en nuestras vidas, solo tenemos que confiar plenamente en Él y Él obrará. Hará que se mueva esa montaña, hará que los ciegos vean, los mudos hablen y los cojos caminen. 
+    - Por eso, es importante entender que el mundo no nos dará la solución a nuestros problemas sino la fe que tengamos con Dios porque él nos guiará hacia el camino de la verdad. Nuestra salvación.
 
 
 

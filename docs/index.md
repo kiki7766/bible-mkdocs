@@ -18,5 +18,4 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 - Durante cada día o semana, se estará actualizando con el versículo diario o semanal correspondiente al mes.
 
 ## Licencias utilizadas :material-license:
-- MIT License :material-license:
-- GNU General Public License (GPL) :material-license:
+- MIT License :fontawesome-solid-scale-balanced:
