@@ -2,7 +2,7 @@ site_name: Challenge Bíblico
 site_url: https://kiki7766.github.io/bible-mkdocs/
 site_author: Peggy Gonzalez (PG)
 site_description: >-
-  This site will be for posting monthly Bible cited verses.
+  Esta página será dedicada para publicar versos bíblicos mensualmente. 
 
 
 # Repository
@@ -17,7 +17,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/book-bible
-  favicon: docs/assets/something.png
+  favicon: docs/assets/bible.png
   features:
     - content.tooltips
     - content.code.annotate
