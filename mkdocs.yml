@@ -89,7 +89,7 @@ markdown_extensions:
 # Page Tree (FINALLY)
 nav:
   - Home: index.md
-  - Historial de Lecturas:
+  - Historial de Lecturas Bíblica:
     - Enero 2023: m/ene.md
     - Febrero 2023: m/feb.md  
     - Marzo 2023: m/mar.md

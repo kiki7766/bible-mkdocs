@@ -36,9 +36,16 @@
 
     - 
 
+## 29 de enero de 2023 :material-calendar-heart:
 
+???+ abstract "Marcos 5:21-34"
+    <font size=4, color=orange>**Versículos**</font>:
 
+    > _<font color=orange>21</font>. Pasando otra vez Jesús en una barca a la otra orilla, se reunió alrededor de él una gran multitud; y él estaba junto al mar. <br> <font color=orange>22</font>. Y vino uno de los principales de la sinagoga, llamado Jairo; y luego que le vio, se postró a sus pies, <br> <font color=orange>23</font>. y le rogaba mucho, diciendo: Mi hija está agonizando; ven y pon las manos sobre ella para que sea salva, y vivirá. <br> <font color=orange>24</font>. Fue, pues, con él; y le seguía una gran multitud, y le apretaban. <br> <font color=orange>25</font>. Pero una mujer que desde hacía desde doce años padecía de flujo de sangre, <br><font color=orange>26</font>. y había sufrido mucho de muchos médicos, y gastado todo lo que tenía, y nada había aprovechado, antes le iba peor, <br> <font color=orange>27</font>. cuando oyó hablar de Jesús, vino por detrás entre la multitud, y tocó su manto.<br> <font color=orange>28</font>. Porque decía: Si tocare tan solamente el manto, seré salva. <br><font color=orange>29</font>. Y en seguida la fuente de su sangre se secó; y sintió en el cuerpo que estaba sana de aquel azote.<br> <font color=orange>30</font>. Luego Jesús, conociendo en sí mismo el poder que había salido de ;el, volviéndose a la multitud, dijo: ¿Quién ha tocado mis vestidos? <br> <font color=orange>31</font>. Sus discípulos le dijeron: Ves que la multitud te aprieta, y dices: ¿Quién me ha tocado? <br> <font color=orange>32</font>. Pero él miraba alrededor para ver quién había hecho esto. <br> <font color=orange>33</font>. Entonces la mujer, temiendo y temblando, sabiendo lo que en ella había sido hecho, vino y se postró delante de él, y le dijo toda la verdad. <br> <font color=orange>34</font>. Y él le dijo: <font color=orange>Hija, tu fe te ha hecho salva; ve en paz, y queda sana de tu azote</font>._
 
+    <font size=4, color=orange>**Mensaje Aprendido**:</font>
+
+    - 
 
 
 
@@ -81,11 +88,6 @@
 
 
 ??? tip "Total General de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
-    - Total de Libros leídos: 2
-    - Total de Capítulos leídos: 2
-    - Total de Versículos leídos: 13
-
-<!-- [Follow :fontawesome-brands-instagram:](https://instagram.com/kiki7766_peggy){ .md-button target=_blank}
-[Follow :fontawesome-brands-facebook:](https://facebook.com/kiki7766){ .md-button  target=_blank }
-[Follow :fontawesome-brands-github:](https://github.com/kiki7766){ .md-button target=_blank }
-[Follow :fontawesome-brands-discord:](https://discord.com/Kiki7766#1421){ .md-button target=_blank } -->
+    - Total de Libros leídos: 3
+    - Total de Capítulos leídos: 3
+    - Total de Versículos leídos: 27
