@@ -19,4 +19,3 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 
 ## Licencias utilizadas :material-license:
 - MIT License :fontawesome-solid-scale-balanced:
-- 
