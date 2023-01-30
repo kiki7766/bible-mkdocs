@@ -34,7 +34,12 @@
 
     <font size=4, color=orange>**Mensaje Aprendido**:</font>
 
-    - 
+    - Este pasaje siempre me va hacer pensar en la película __War Room__ porque me identifique la joven protagonista. 
+    - Muchas veces necesitamos que alguien nos ayude a levantar nuestros ánimos y permanecer firmes y no desmayar. No rendirnos, pero muy pocas veces nos encontramos con personas que nos apoyen y nos brinden esas palabras de aliento que estamos buscando.
+    - Aquí viene este pasaje, comienza con varias preguntas, indicando que debemos detectar o identificar cual es nuestro problema, cual es la razón de ser como somos. 
+    - Cuestionandonos porque debemos abstenernos de compartir cosas que no nos conviene, y buscar como agradar a Dios. 
+    - Las pruebas a veces son fáciles, pero muchas de las veces van a ser difíciles y por eso Dios nos enfatiza que debemos someternos, llenarnos más, buscar más, redimirnos y confiar más en Dios, porque sino obligamos nuestra carne (cuerpo) nunca llegaríamos a buscar a Dios. 
+    - Estaríamos siempre con un vacío que nada lo puede llenar solo Dios con su miseriacordia y gozo, nos llena de esa gracia y paz que anhelamos encontrar.
 
 ## 29 de enero de 2023 :material-calendar-heart:
 
@@ -64,36 +69,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-??? tip "Total General de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
+???+ tip "Total General de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 3
     - Total de Capítulos leídos: 3
     - Total de Versículos leídos: 27
