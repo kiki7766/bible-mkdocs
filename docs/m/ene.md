@@ -90,6 +90,6 @@
 
 
 ???+ tip "Total General de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
-    - Total de Libros leídos: 3
-    - Total de Capítulos leídos: 3
+    - Total de Libros leídos: 4
+    - Total de Capítulos leídos: 4
     - Total de Versículos leídos: 51
