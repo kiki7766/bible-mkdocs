@@ -17,5 +17,14 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 
 - Durante cada día o semana, se estará actualizando con el versículo diario o semanal correspondiente al mes.
 
-## Licencias utilizadas :material-license:
+## Licencias Utilizadas :material-license:
 - MIT License :fontawesome-solid-scale-balanced:
+
+## Comentarios o sugerencias :octicons-comment-discussion-24:
+
+- Puedes escribirme a [peggy.gonzalez@upr.edu](mailto:peggy.gonzalez@upr.edu){target=_blank}
+- También puedes escribirme a [hakunawonderland@gmail.com](mailto:hakunawonderland@gmail.com){target=_blank}
+
+### Contribuciones :fontawesome-solid-people-group:
+
+- Acepto a colaboradores o contribuidores que deseen ayudarme a expandir este proyecto para realizar o cumplir con la meta de leer lecturas bíblicas mensuales o semanales durante este año 2023. 

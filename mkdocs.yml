@@ -6,11 +6,11 @@ site_description: >-
 
 
 # Repository
-repo_name: kiki7766/bible-mkdocs
+repo_name: bible-mkdocs
 repo_url: https://github.com/kiki7766/bible-mkdocs
 
 # Copyrights
-copyright: Copyright &copy; 2023 Hakuna Wonderland by PG
+copyright: Copyright &copy; 2023 Hakuna Wonderland by Peggy Gonzalez
 
 # Configuration of Personal Page
 theme:
@@ -36,7 +36,7 @@ theme:
         name: Switch to light mode
     - scheme: slate
       primary: light green
-      accent: lime #deep orange
+      accent: orange #lime
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -49,6 +49,7 @@ theme:
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - glightbox
 # Customization
 extra: 
   social:
@@ -90,6 +91,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Historial de Lecturas Bíblica:
+    - m/index.md
     - Enero 2023: m/ene.md
     - Febrero 2023: m/feb.md  
     - Marzo 2023: m/mar.md
