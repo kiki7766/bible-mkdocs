@@ -90,7 +90,7 @@
     -  A veces pensamos que Dios no nos escucha, que no cumplirá su promesa o propósito en nuestras vidas, pero Dios tiene planes con nosotros que nosotros desconocemos. Es mejor dejarle a Dios a cargo de nuestras dificultades y confiar plenamente en Él para que haga su voluntad sobre nosotros.  
 
 
-???+ tip "Total General de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
+???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 4
     - Total de Capítulos leídos: 4
     - Total de Versículos leídos: 51
