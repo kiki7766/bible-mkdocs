@@ -4,7 +4,6 @@ site_author: Peggy Gonzalez (PG)
 site_description: >-
   Esta página será dedicada para publicar versos bíblicos mensualmente. 
 
-
 # Repository
 repo_name: bible-mkdocs
 repo_url: https://github.com/kiki7766/bible-mkdocs
@@ -17,7 +16,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/book-bible
-  favicon: docs/assets/bible.png
+  favicon: assets/fire.jpg
   features:
     - content.tooltips
     - content.code.annotate
