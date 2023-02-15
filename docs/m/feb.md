@@ -2,7 +2,7 @@
 
 ## 13 febrero de 2023 :material-calendar-heart:
 ### El vacío en nuestras vidas
-???+ abstract "Romanos 15:13, Mateo 11:28-30, Filipenses 4:19, Romanos 8:27, Romanos 5:5, Romanos 12:2, Mateo 5:14, Romanos 7:15"
+???+ abstract "Romanos 15:13, Mateo 11:28-30, Filipenses 4:19, Romanos 8:27, Romanos 5:3-5, Romanos 12:2, Mateo 5:14, Romanos 7:15"
     <figure markdown><figcaption>"El vacío solo puede ser llenado por Dios"</figcaption>
     ![Obrero Aprobado](../assets/emptiness.png){ width="300" }</figure>
     <font size=4, color=orange>**Versículos**</font>:
@@ -10,6 +10,10 @@
     > - _<font color=orange>**Romanos 15:13**. Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo</font>._
     > - _<font color=orange> **Mateo 11:28-30**.</font>_ 
         - _<font color=orange> 28.</font> Venid a mí todos los qye estáis trabajados y cargados, y yo os haré descansar. <font color=orange> 29.</font> Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descnaso para vuestras almas; <font color=orange> 30.</font> porque mi you es fácil, y ligera mi carga._
+    > - _<font color=orange> **Filipenses 4:19.**</font> Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús._
+    > - _<font color=orange> **Romanos 8:27**.</font> Mas el que escudriña los corazones sabe cuál es la intención del Espíritu, porque conforme a la volutnad de Dios intercede por los santos._
+    > - _<font color=orange>**Romanos 5:3-5**.</font>_
+        - _<font color=orange>3.</font> Y no solo esto, sino que también nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; <font color=orange> 4.</font> y la paciencia, prueba; y la prubea, esperanza; <font color=orange> 5.</font> y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado._
 
     <font size=4, color=orange>**Mensaje Aprendido**</font>:
     
