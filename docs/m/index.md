@@ -11,7 +11,7 @@
 
 | Mes 2023      | Total de lecturas       | General - Total de lecturas       |
 | :-----------: | :------------------------------------:| :------------------------------------:|
-| [Enero](ene.md){.md-button}        | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **51** | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **51** |
+| [Enero](ene.md){.md-button}        | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **51** | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **50** |
 | [Febrero](feb.md){.md-button}       |  | |
 | [Marzo](mar.md){.md-button}         |  | |
 | [Abril](abr.md){.md-button}         |  | |
