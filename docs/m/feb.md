@@ -26,28 +26,28 @@
         - ¿a caso, le estoy fallando a Dios por mis acciones?
     - Tristemente, nos sentimos vacíos cuando en realidad lo tenemos todo. ¿Sabes a qué se debe, porque nos pasa o nos sentimos de tal manera? Es muy fácil decir porque no tenemos a Dios en nuestro corazón o porque no le servimos Dios como el quiere, o mejor aun que nos alejamos de Dios estando dentro de la iglesia. 
     - Es increíble que muchas veces cuando no queremos adorarle a Dios nos incomoda hablar de Él o escuchar de Dios y la realidad es que estamos tan atados a las cosas de este mundo y es tan grande la atadura que no vemos la importancia y el beneficio de permancer buscándole.
-    - Incluso dentro de la iglesia a veces estamos tan ocupados de tantas tareas o puestos que no nos percatamos que nos estamos alejandonos de Dios. Hacemos de todo, el devocional, lectura, reflexión y el mensaje de Dios pero no nos aplicamos lo que se habla. 
+    - Incluso dentro de la iglesia a veces estamos tan ocupados de tantas tareas o puestos que no nos percatamos que nos estamos alejándonos de Dios. Hacemos de todo, el devocional, lectura, reflexión y el mensaje de Dios pero no nos aplicamos lo que se habla. 
     -  Esto sucede muchas veces porque también estamos escondiendo muchas cosas y normalizamos las cosas cotidianas del día a día. Por ejemplo: un día me percaté que yo le dije a una persona:
         - <font color=orange>Porque no mejor bajas una película por internet y la enseñas en tu lugar, no necesitas comprarla.</font>
         - La persona me contestó: <font color=pink>Peggy, ¿a caso no sabes que bajar películas es malo?, ¿ilegal?, ¿contra los derechos de autor?</font>
         - Fue aquí donde entendí que había normalizado las cosas del mundo a tal nivel que había ignorado totalmente que bajar películas por internet a través de plataformas no aceptadas por los derechos de autor son ilegales porque les estas robando el crédito de sus películas y desempeño en su trabajo. 
         - En fin, lo que quiero traer es que muchas veces hacemos lo que no queremos y lo que queremos hacer no lo hacemos a tal grado que normalizamos las cosas y las vemos que son buenas, PERO NO! Como dice Pablo en las escrituras, que no todo lo que hacemos lo debemos categorizar como algo bueno porque nuestra carne es débil y puede hacernos resbalar o desviarnos de los caminos de Dios. Así que para llenar nuestro vacío, ánimo y tristeza, Dios siempre está de nuestro lado para escucharnos y darnos las palabras de alientos para seguir en adelante confiando plenamente en él. 
-    -  Si en tu vida buscas la manera de llenar ese vacío y llenandolo con otros medios nunca encontrarás la forma de llenarla totalmente porque el único que puede llenar ese vacío es Cristo Jesús. Él es el único que te va a suplir en todas tusnecesidades y sentirás satisfacción en tu vida porque ese vacío lo llenará Dios. Te darás cuenta que en Cristo Jesús era a quién necesitabas en tu vida para que te sientas completo.
+    -  Si en tu vida buscas la manera de llenar ese vacío y llenandolo con otros medios nunca encontrarás la forma de llenarla totalmente porque el único que puede llenar ese vacío es Cristo Jesús. Él es el único que te va a suplir en todas tus necesidades y sentirás satisfacción en tu vida porque ese vacío lo llenará Dios. Te darás cuenta que en Cristo Jesús era a quién necesitabas en tu vida para que te sientas completo.
 
 ## 25 febrero de 2023 :material-calendar-heart:
-### "Ghosting, Depresión, Zombieing, y Superación"
-???+ abstract ""
+### Pon tu mirada en Dios
+???+ abstract "Hebreos 12:2"
     
     <figure markdown><figcaption>"Pon tu mirada en Cristo Jesús"</figcaption>
     ![Emptiness](../assets/empty.png){width=300} </figure>
     <font size=4, color=orange>**Versículos**</font>:
 
-    > - _<font color=orange>** **.
+    > - _<font color=orange>**Hebreos 12: 2.** puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios._</font>
 
     <font size=4, color=orange>**Mensaje Aprendido**</font>:
 
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
-    - Total de Libros leídos: 3
-    - Total de Capítulos leídos: 7
-    - Total de Versículos leídos: 16
+    - Total de Libros leídos: 4
+    - Total de Capítulos leídos: 8
+    - Total de Versículos leídos: 17
