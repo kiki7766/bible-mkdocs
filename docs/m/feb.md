@@ -46,6 +46,10 @@
 
     <font size=4, color=orange>**Mensaje Aprendido**</font>:
 
+    - Muchas veces queremos hacerlo todo por nuestra cuenta pero en la realidad es que su si no contamos con la guianza y dirección de Dios no podremos realizar las cosas. Incluso si no es la voluntad de Dios por alguna razón será. 
+    - Debemos poner nuesta mirada en Cristo Jesús donde murió por nuestros pecados para tener la esperanza de salvación. 
+    - Confia en Dios en todo momento y poner nuestra fe firme en la roca que es Cristo Jesús.
+
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 4
