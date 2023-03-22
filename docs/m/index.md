@@ -7,13 +7,13 @@
 :fontawesome-solid-gear: En fin, esta página es para que se puedan dar cuenta que no leo todos los días pero me estare esforzando lo más posible para mantener esta plataforma activa y actualizada.
 
 ## Desglose de lecturas mensuales
-!!! quote "Nota: Si los libros son repetidos no seran contados como un libro nuevo de lectura"
+!!! quote "Nota: Si los libros y/o capítulos son repetidos no seran contados como un libro/capítulo nuevo de lectura."
 
 
 | Mes 2023      | Total de lecturas       | General - Total de lecturas       |
 | :-----------: | :------------------------------------:| :------------------------------------:|
 | [Enero](ene.md){.md-button}        | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **50** | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **50** |
-| [Febrero](feb.md){.md-button}       | <font color=orange>Libros</font>: **3** <font color=red>Capítulos</font>: **7** <font color=lime>Versículos</font>: **16** | <font color=orange>Libros</font>: **7** <font color=red>Capítulos</font>: **11** <font color=lime>Versículos</font>: **66** |
+| [Febrero](feb.md){.md-button}       | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **8** <font color=lime>Versículos</font>: **17** | <font color=orange>Libros</font>: **8** <font color=red>Capítulos</font>: **12** <font color=lime>Versículos</font>: **67** |
 | [Marzo](mar.md){.md-button}         |  | |
 | [Abril](abr.md){.md-button}         |  | |
 | [Mayo](may.md){.md-button}          |  | |
