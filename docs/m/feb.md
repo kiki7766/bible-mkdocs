@@ -46,10 +46,10 @@
 
     <font size=4, color=orange>**Mensaje Aprendido**</font>:
 
-    - Muchas veces queremos hacerlo todo por nuestra cuenta pero en la realidad es que su si no contamos con la guianza y dirección de Dios no podremos realizar las cosas. Incluso si no es la voluntad de Dios por alguna razón será. 
+    - Muchas veces queremos hacerlo todo por nuestra cuenta pero en la realidad es que su si no contamos con la guianza y dirección de Dios no podremos realizar las cosas. 
     - Debemos poner nuesta mirada en Cristo Jesús donde murió por nuestros pecados para tener la esperanza de salvación. 
     - Confia en Dios en todo momento y poner nuestra fe firme en la roca que es Cristo Jesús.
-
+    - No todo el tiempo tenemos lo que queremos y puede ser que no estamos confiamos o buscamos la guianza de Dios preguntandole si es su voluntad. Si no contamos con la voluntad de Dios nada vale que no los otorgue lo que le pedimos porque puede ser hasta de perdición. Pedimos muchas cosas, tanto por lo material, pero no vemos que beneficio nos puede traer en lo espiritual. Por ende, si le pedimos a Dios algo, que sea bajo su voluntad y que sea en la guianza de su Espíritu Santo para aprender como caminar con sus herramientas y estatutos.
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 4
