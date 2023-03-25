@@ -36,13 +36,14 @@
 
 ## 25 febrero de 2023 :material-calendar-heart:
 ### Pon tu mirada en Dios
-???+ abstract "Hebreos 12:2"
+???+ abstract "Hebreos 12:2, Colosenses 3:2"
     
     <figure markdown><figcaption>"Pon tu mirada en Cristo Jesús"</figcaption>
     ![Emptiness](../assets/empty.png){width=300} </figure>
     <font size=4, color=orange>**Versículos**</font>:
 
     > - _<font color=orange>**Hebreos 12: 2.** puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios._</font>
+    > - _<font color=orange>**Colosenses 3:2**</font> Poned la mira en las cosas de arriba, no en las de la tierra._
 
     <font size=4, color=orange>**Mensaje Aprendido**</font>:
 
@@ -52,6 +53,6 @@
     - No todo el tiempo tenemos lo que queremos y puede ser que no estamos confiamos o buscamos la guianza de Dios preguntandole si es su voluntad. Si no contamos con la voluntad de Dios nada vale que no los otorgue lo que le pedimos porque puede ser hasta de perdición. Pedimos muchas cosas, tanto por lo material, pero no vemos que beneficio nos puede traer en lo espiritual. Por ende, si le pedimos a Dios algo, que sea bajo su voluntad y que sea en la guianza de su Espíritu Santo para aprender como caminar con sus herramientas y estatutos.
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
-    - Total de Libros leídos: 4
-    - Total de Capítulos leídos: 8
-    - Total de Versículos leídos: 17
+    - Total de Libros leídos: 5
+    - Total de Capítulos leídos: 9
+    - Total de Versículos leídos: 18
