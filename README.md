@@ -1,4 +1,4 @@
-# Bienvenid@s a mi blog 
+# Bienvenid@s a mi blog :space_invader:
 ## Lectura bíblica mensual :robot:
 
 En esta página encontrarás un diario de versículos leídos de la Santa Biblia.    
