@@ -132,5 +132,4 @@ dmypy.json
 # Miscellaneous
 .DS_Store
 docs/.DS_Store
-.gitignore
 venv
