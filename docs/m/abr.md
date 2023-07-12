@@ -1,4 +1,4 @@
-# **Lecturas Bíblicas del Mes de Febrero 2023**
+# **Lecturas Bíblicas del Mes de Abril 2023**
 
 ## 23 de abril de 2023 :material-calendar-heart:
 ### El faro y el aceite
