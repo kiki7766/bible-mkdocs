@@ -15,12 +15,32 @@
 | [Enero](ene.md){.md-button}        | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **50** | <font color=orange>Libros</font>: **4** <font color=red>Capítulos</font>: **4** <font color=lime>Versículos</font>: **50** |
 | [Febrero](feb.md){.md-button}       | <font color=orange>Libros</font>: **5** <font color=red>Capítulos</font>: **9** <font color=lime>Versículos</font>: **18** | <font color=orange>Libros</font>: **9** <font color=red>Capítulos</font>: **13** <font color=lime>Versículos</font>: **68** |
 | [Marzo](mar.md){.md-button} | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**  | <font color=orange>Libros</font>: **9** <font color=red>Capítulos</font>: **13** <font color=lime>Versículos</font>: **68** |
-| [Abril](abr.md){.md-button}         | <font color=orange>Libros</font>: **1** <font color=red>Capítulos</font>: **1** <font color=lime>Versículos</font>: **3**  | |
-| [Mayo](may.md){.md-button}          | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**   | |
-| [Junio](jun.md){.md-button}         | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**   | |
-| [Julio](jul.md){.md-button}         |  | |
+| [Abril](abr.md){.md-button}         | <font color=orange>Libros</font>: **1** <font color=red>Capítulos</font>: **1** <font color=lime>Versículos</font>: **3**  | <font color=orange>Libros</font>: **10** <font color=red>Capítulos</font>: **14** <font color=lime>Versículos</font>: **71**  |
+| [Mayo](may.md){.md-button}          | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**   | <font color=orange>Libros</font>: **10** <font color=red>Capítulos</font>: **14** <font color=lime>Versículos</font>: **71**  |
+| [Junio](jun.md){.md-button}         | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**   | <font color=orange>Libros</font>: **10** <font color=red>Capítulos</font>: **14** <font color=lime>Versículos</font>: **71**  |
+| [Julio](jul.md){.md-button}         | <font color=orange>Libros</font>: **1** <font color=red>Capítulos</font>: **1** <font color=lime>Versículos</font>: **9**    | <font color=orange>Libros</font>: **10** <font color=red>Capítulos</font>: **15** <font color=lime>Versículos</font>: **80**  |
 | [Agosto](ago.md){.md-button}        |  | |
 | [Septiembre](sep.md){.md-button}    |  | |
 | [Octubre](oct.md){.md-button}       |  | |
 | [Noviembre](nov.md){.md-button}     |  | |
 | [Diciembre](dic.md){.md-button}     |  | |
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Estatus de Lecturas Mensual",
+  "description": "A simple line chart with random data.",
+  "mark": {"type": "bar", "tooltip": true},
+  "data": {
+      "values": [
+      {"versiculos": 50, "mes": "Enero"}, {"versiculos": 18, "mes": "Febrero"}, {"versiculos": 0, "mes": "Marzo"},
+      {"versiculos": 3, "mes": "Abril"}, {"versiculos": 0, "mes": "Mayo"}, {"versiculos": 0, "mes": "Junio"},
+      {"versiculos": 9, "mes": "Julio"}, {"versiculos": 0, "mes": "Agosto"}, {"versiculos": 0, "mes": " Septiembre"}, {"versiculos": 0, "mes": "Octubre"}, {"versiculos": 0, "mes": "Noviembre"}, {"versiculos": 0, "mes": "Diciembre"}
+      ]
+  },"encoding": {
+    "x": {"field": "mes", "type": "nominal", "title": "Meses",
+        "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]},
+    "y": {"field": "versiculos","type": "quantitative", "title": "Versículos"},
+    "color": {"field": "mes", "type": "nominal", "title": "Legend", "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]}}
+}
+```
