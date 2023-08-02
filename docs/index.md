@@ -28,3 +28,25 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 ### Contribuciones :fontawesome-solid-people-group:
 
 - Acepto a colaboradores o contribuidores que deseen ayudarme a expandir este proyecto para realizar o cumplir con la meta de leer lecturas bíblicas mensuales o semanales durante este año 2023. 
+
+## [Gráfica de Lecturas Mensuales 2023](m/index.md)
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Estatus de Lecturas Mensual",
+  "description": "A simple line chart with random data.",
+  "data": {"values": [
+            {"versiculos": 50, "mes": "enero"}, {"versiculos": 18, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 3, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 9, "mes": "julio"}, {"versiculos": 0, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 0, "mes": "octubre"}, {"versiculos": 0, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},
+    "mark": {"type": "bar"},
+    "transform": [{
+    "calculate": "'m/' + datum.mes", "as": "url"}],
+    "encoding": {
+        "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]},
+        "y": {"field": "versiculos", "type": "quantitative"},
+        "color": {"field": "mes", "type": "nominal",  "title": "Legend", "sort": ["enero", "febrero", "marzo", "abril", "mayo",  "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]},
+        "tooltip": {"field": "mes", "type": "nominal"},
+        "href": {"field": "url", "type": "nominal"}
+    }
+}
+```
