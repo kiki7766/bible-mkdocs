@@ -1,7 +1,7 @@
 # **Lecturas Bíblicas del Mes de Julio 2023**
 
 ## 30 de julio de 2023 :material-calendar-heart:
-### 
+### Hacedor de la Palabra
 
 ???+ abstract "Santiago 1:19-27"
     <figure markdown><figcaption>"Hacedor de la Palabra"</figcaption>
@@ -15,7 +15,6 @@
     - Estos versos se refiere a que a veces no estamos pendiente a lo que en realidad Dios nos quiere hablar. Sino que estamos tan centrado en nosotros mismo que nos olvidamos que en nuestro alrededor tenemos personas que necesitan de nuestra ayuda.
     - Incluso podemos llegar a pensar que somos los más conocimientos que tengamos pero la realidad es que queremos sentirnos bien pero nuestro orgullo nos ciega para solo mirrar nuestro lado de la moneda y la de los demás. 
     - Tenemos que tener en cuenta que para ser **Hacedores de la palabra** no tan solo debemos ser adoradores sino que debemos profundizar en las escritura de la Palabra de Dios para que asi tengamos dirección de lo alto y no una dirección incorrecta.
-
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 1
