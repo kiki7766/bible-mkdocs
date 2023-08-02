@@ -345,6 +345,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#grafica-de-lecturas-mensuales-2023" class="md-nav__link">
+    Gráfica de Lecturas Mensuales 2023
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -428,7 +435,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/ene/" class="md-nav__link">
+      <a href="m/enero/" class="md-nav__link">
         Enero 2023
       </a>
     </li>
@@ -442,7 +449,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/feb/" class="md-nav__link">
+      <a href="m/febrero/" class="md-nav__link">
         Febrero 2023
       </a>
     </li>
@@ -456,7 +463,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/mar/" class="md-nav__link">
+      <a href="m/marzo/" class="md-nav__link">
         Marzo 2023
       </a>
     </li>
@@ -470,7 +477,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/abr/" class="md-nav__link">
+      <a href="m/abril/" class="md-nav__link">
         Abril 2023
       </a>
     </li>
@@ -484,7 +491,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/may/" class="md-nav__link">
+      <a href="m/mayo/" class="md-nav__link">
         Mayo 2023
       </a>
     </li>
@@ -498,7 +505,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/jun/" class="md-nav__link">
+      <a href="m/junio/" class="md-nav__link">
         Junio 2023
       </a>
     </li>
@@ -512,7 +519,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/jul/" class="md-nav__link">
+      <a href="m/julio/" class="md-nav__link">
         Julio 2023
       </a>
     </li>
@@ -526,7 +533,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/ago/" class="md-nav__link">
+      <a href="m/agosto/" class="md-nav__link">
         Agosto 2023
       </a>
     </li>
@@ -540,7 +547,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/sep/" class="md-nav__link">
+      <a href="m/septiembre/" class="md-nav__link">
         Septiembre 2023
       </a>
     </li>
@@ -554,7 +561,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/oct/" class="md-nav__link">
+      <a href="m/octubre/" class="md-nav__link">
         Octubre 2023
       </a>
     </li>
@@ -568,7 +575,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/nov/" class="md-nav__link">
+      <a href="m/noviembre/" class="md-nav__link">
         Noviembre 2023
       </a>
     </li>
@@ -582,7 +589,7 @@
   
   
     <li class="md-nav__item">
-      <a href="m/dic/" class="md-nav__link">
+      <a href="m/diciembre/" class="md-nav__link">
         Diciembre 2023
       </a>
     </li>
@@ -677,6 +684,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#grafica-de-lecturas-mensuales-2023" class="md-nav__link">
+    Gráfica de Lecturas Mensuales 2023
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -724,6 +738,24 @@
 <ul>
 <li>Acepto a colaboradores o contribuidores que deseen ayudarme a expandir este proyecto para realizar o cumplir con la meta de leer lecturas bíblicas mensuales o semanales durante este año 2023. </li>
 </ul>
+<h2 id="grafica-de-lecturas-mensuales-2023"><a href="m/">Gráfica de Lecturas Mensuales 2023</a></h2>
+<p><vegachart style='width: 100%'  class="vegalite">{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Estatus de Lecturas Mensual",
+  "description": "A simple line chart with random data.",
+  "data": {"values": [
+            {"versiculos": 50, "mes": "enero"}, {"versiculos": 18, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 3, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 9, "mes": "julio"}, {"versiculos": 0, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 0, "mes": "octubre"}, {"versiculos": 0, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},
+    "mark": {"type": "bar"},
+    "transform": [{
+    "calculate": "'m/' + datum.mes", "as": "url"}],
+    "encoding": {
+        "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]},
+        "y": {"field": "versiculos", "type": "quantitative"},
+        "color": {"field": "mes", "type": "nominal",  "title": "Legend", "sort": ["enero", "febrero", "marzo", "abril", "mayo",  "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]},
+        "tooltip": {"field": "mes", "type": "nominal"},
+        "href": {"field": "url", "type": "nominal"}
+    }
+}</vegachart></p>
 
 
 
@@ -871,5 +903,9 @@
         
       
     
-  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script>
+        <script>
+        var mkdocs_chart_plugin = {'data_path': '', 'use_data_path': 'True', 'vega_theme': 'default', 'vega_theme_dark': 'dark', 'vega_renderer': 'svg', 'vega_width': 'container', 'fallback_width': '800', 'path_to_homepage': '../.'}
+        </script>
+        </body>
 </html>
