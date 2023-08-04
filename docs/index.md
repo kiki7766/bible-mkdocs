@@ -15,7 +15,7 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 
 ## Updates/Actualizaciones :material-update:
 
-- Durante cada día o semana, se estará actualizando con el versículo diario o semanal correspondiente al mes.
+- Durante cada día, semana, o mes, se estará actualizando con el versículo diario, semanal, o mensual correspondiente al mes.
 
 ## Licencias Utilizadas :material-license:
 - MIT License :fontawesome-solid-scale-balanced:
@@ -45,7 +45,7 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
         "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]},
         "y": {"field": "versiculos", "type": "quantitative"},
         "color": {"field": "mes", "type": "nominal",  "title": "Legend", "sort": ["enero", "febrero", "marzo", "abril", "mayo",  "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]},
-        "tooltip": {"field": "mes", "type": "nominal"},
+        "tooltip": [{"field": "versiculos", "type": "quantitative"}, {"field": "mes", "type": "nominal"}],
         "href": {"field": "url", "type": "nominal"}
     }
 }
