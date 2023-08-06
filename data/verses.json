@@ -1,0 +1,52 @@
+{
+    "verses": [
+      {
+        "versiculos": 50,
+        "mes": "enero"
+      },
+      {
+        "versiculos": 18,
+        "mes": "febrero"
+      },
+      {
+        "versiculos": 0,
+        "mes": "marzo"
+      },
+      {
+        "versiculos": 3,
+        "mes": "abril"
+      },
+      {
+        "versiculos": 0,
+        "mes": "mayo"
+      },
+      {
+        "versiculos": 0,
+        "mes": "junio"
+      },
+      {
+        "versiculos": 9,
+        "mes": "julio"
+      },
+      {
+        "versiculos": 0,
+        "mes": "agosto"
+      },
+      {
+        "versiculos": 0,
+        "mes": "septiembre"
+      },
+      {
+        "versiculos": 0,
+        "mes": "octubre"
+      },
+      {
+        "versiculos": 0,
+        "mes": "noviembre"
+      },
+      {
+        "versiculos": 0,
+        "mes": "diciembre"
+      }
+    ]
+  }
