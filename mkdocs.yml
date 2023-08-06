@@ -101,17 +101,19 @@ markdown_extensions:
 # Page Tree (FINALLY)
 nav:
   - Home: index.md
-  - Historial de Lecturas Bíblica:
-    - m/index.md
-    - Enero 2023: m/enero.md
-    - Febrero 2023: m/febrero.md  
-    - Marzo 2023: m/marzo.md
-    - Abril 2023: m/abril.md
-    - Mayo 2023: m/mayo.md
-    - Junio 2023: m/junio.md
-    - Julio 2023: m/julio.md
-    - Agosto 2023: m/agosto.md
-    - Septiembre 2023: m/septiembre.md
-    - Octubre 2023: m/octubre.md
-    - Noviembre 2023: m/noviembre.md
-    - Diciembre 2023: m/diciembre.md
+  # - Información Técnica de la Biblia:
+  #   - data/index.md
+  - Historial de Lecturas Bíblica Mensuales 2023:
+    - m-2023/index.md
+    - Enero 2023: m-2023/enero.md
+    - Febrero 2023: m-2023/febrero.md  
+    - Marzo 2023: m-2023/marzo.md
+    - Abril 2023: m-2023/abril.md
+    - Mayo 2023: m-2023/mayo.md
+    - Junio 2023: m-2023/junio.md
+    - Julio 2023: m-2023/julio.md
+    - Agosto 2023: m-2023/agosto.md
+    - Septiembre 2023: m-2023/septiembre.md
+    - Octubre 2023: m-2023/octubre.md
+    - Noviembre 2023: m-2023/noviembre.md
+    - Diciembre 2023: m-2023/diciembre.md
