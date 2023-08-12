@@ -56,13 +56,14 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega-lite@5
   - https://cdn.jsdelivr.net/npm/vega-embed@6
 
+
 # Customization
 extra: 
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/kiki7766
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/kiki7766_peggy
+      link: https://instagram.com/kiki7766_pg
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/kiki7766
     - icon: fontawesome/brands/deviantart
@@ -96,7 +97,9 @@ markdown_extensions:
         - name: vegalite
           class: vegalite
           format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
-
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 # Page Tree (FINALLY)
 nav:
