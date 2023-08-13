@@ -17,6 +17,7 @@
     - Tenemos que tener en cuenta que para ser **Hacedores de la palabra** no tan solo debemos ser adoradores sino que debemos profundizar en las escritura de la Palabra de Dios para que asi tengamos dirección de lo alto y no una dirección incorrecta.
 
 
+
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 1
     - Total de Capítulos leídos: 1
