@@ -536,12 +536,10 @@
 
   <h1>Index</h1>
 
-<pre class="mermaid"><code>graph LR
-  A[Start] --&gt; B{Error?};
-  B --&gt;|Yes| C[Hmm...];
-  C --&gt; D[Debug];
-  D --&gt; B;
-  B ----&gt;|No| E[Yay!];</code></pre>
+<pre class="mermaid"><code>sequenceDiagram
+    Alice-&gt;&gt;John: Hello John, how are you?
+    Note over Alice,John: A typical interaction
+</code></pre>
 
 
 
