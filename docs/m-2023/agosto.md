@@ -3,9 +3,9 @@
 ##  11 de Agosto de 2023 :material-calendar-heart:
 ### Pueblo Humillado ante Dios
 
-???+ abstract "2 Crónicas 7:12-19"
+???+ abstract "2 Crónicas 7:12-22"
     <figure markdown><figcaption>"Humildes ante Dios"</figcaption>
-    ![Hacedor de la palabra](../assets/){width=300} </figure>
+    ![Hacedor de la palabra](../assets/humble.jpg){width=300} </figure>
     <font size=4, color=orange>**Versículos**</font>:
 
-    > _<font color=orange> **2 Crónicas 7:12-19**</font>_ 
+    > _<font color=orange> **2 Crónicas 7:12-19**. 12. </font>_ Y apareció Jehová a Salomón de noche, y le dijo: Yo he oído tu oración, y he elegido para mí este lugar por casa de sacrificio. <font color=orange> 13.</font> Si yo cerrare los cielos para que no haya lluvia, y si mandare a la langosta que consuma la tierra, o si enviare pestilencia a mi pueblo; 14si se humillare mi pueblo, sobre el cual mi nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra. 15Ahora estarán abiertos mis ojos y atentos mis oídos a la oración en este lugar; 16porque ahora he elegido y santificado esta casa, para que esté en ella mi nombre para siempre; y mis ojos y mi corazón estarán ahí para siempre. 17Y si tú anduvieres delante de mí como anduvo David tu padre, e hicieres todas las cosas que yo te he mandado, y guardares mis estatutos y mis decretos, 18yo confirmaré el trono de tu reino, como pacté con David tu padre, diciendo: No te faltará varón que gobierne en Israel. 19Mas si vosotros os volviereis, y dejareis mis estatutos y mandamientos que he puesto delante de vosotros, y fuereis y sirviereis a dioses ajenos, y los adorareis, 20yo os arrancaré de mi tierra que os he dado; y esta casa que he santificado a mi nombre, yo la arrojaré de mi presencia, y la pondré por burla y escarnio de todos los pueblos. 21Y esta casa que es tan excelsa, será espanto a todo el que pasare, y dirá: ¿Por qué ha hecho así Jehová a esta tierra y a esta casa? 22Y se responderá: Por cuanto dejaron a Jehová Dios de sus padres, que los sacó de la tierra de Egipto, y han abrazado a dioses ajenos, y los adoraron y sirvieron; por eso él ha traído todo este mal sobre ellos.
