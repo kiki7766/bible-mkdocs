@@ -37,7 +37,7 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
     "title": "Estatus de Lecturas Mensual",
     "description": "A simple bar chart with random data.",
     "data": {"values": [
-            {"versiculos": 51, "mes": "Enero"}, {"versiculos": 18, "mes": "Febrero"}, {"versiculos": 0, "mes": "Marzo"}, {"versiculos": 3, "mes": "Abril"}, {"versiculos": 0, "mes": "Mayo"}, {"versiculos": 0, "mes": "Junio"},{"versiculos": 9, "mes": "Julio"}, {"versiculos": 11, "mes": "Agosto"}, {"versiculos": 0, "mes": "Septiembre"}, {"versiculos": 0, "mes": "Octubre"}, {"versiculos": 0, "mes": "Noviembre"}, {"versiculos": 0, "mes": "Diciembre"}]},     
+            {"versiculos": 51, "mes": "enero"}, {"versiculos": 18, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 3, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 9, "mes": "julio"}, {"versiculos": 11, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 0, "mes": "octubre"}, {"versiculos": 0, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},     
     "mark": {"type": "bar"},
     "transform": [{"calculate": "'m-2023/' + datum.mes", "as": "url"}],
     "encoding": {
