@@ -1,4 +1,4 @@
-# **Lecturas Bíblicas del Mes de Agoosto 2023**
+# **Lecturas Bíblicas del Mes de Agosto 2023**
 
 ##  13 de Agosto de 2023 :material-calendar-heart:
 ### Pueblo Humillado ante Dios
