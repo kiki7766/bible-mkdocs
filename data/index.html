@@ -538,6 +538,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#antiguo-testamento_1" class="md-nav__link">
+    Antiguo Testamento
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -559,16 +566,15 @@
 <h1 id="contextos-biblicos-libros-de-la-biblia">Contextos Biblicos - Libros de la Biblia</h1>
 <h2 id="antiguo-testamento"><strong>Antiguo Testamento</strong></h2>
 <pre class="mermaid"><code>stateDiagram-v2
-    state "Antiguo Testamento" as s1{
-        state "Pentateuco" as s2{ 
-            direction LR
+    state "Antiguo Testamento" as at1{
+        state "Pentateuco" as at2{ 
             Genesis --&gt; Exodo 
             Exodo --&gt; Levitico
             Levitico --&gt; Numeros 
             Numeros --&gt; Deuteronomio
         }  
 
-        state "Historia" as s3{
+        state "Historia" as at3{
             Josue --&gt; Jueces
             Jueces --&gt; Rut
             Rut --&gt; 1_Samuel
@@ -582,23 +588,21 @@
             Nehemias --&gt; Ester
         }
 
-        state "Literatura de Sabiduria" as s4{
-            direction LR
+        state "Literatura de Sabiduria" as at4{
             Job --&gt; Salmos
             Salmos --&gt; Proverbios
             Proverbios --&gt; Eclesiastes
             Eclesiastes --&gt; Cantares
         }
 
-        state "Profetas Mayores" as s5{
-            direction LR
+        state "Profetas Mayores" as at5{
             Isaias --&gt; Jeremias
             Jeremias --&gt; Lamentaciones
             Lamentaciones --&gt; Ezequiel
             Ezequiel --&gt; Daniel
         }   
 
-        state "Profetas Menores" as s6{
+        state "Profetas Menores" as at6{
             Oseas --&gt; Joel
             Joel --&gt; Amos
             Amos --&gt; Abdias
@@ -612,9 +616,50 @@
             Zacarias --&gt; Malaquias
         }             
     }</code></pre>
+<h2 id="antiguo-testamento_1"><strong>Antiguo Testamento</strong></h2>
 <pre class="mermaid"><code>stateDiagram-v2
- s2 : This is a state something
-</code></pre>
+    state "Nuevo Testamento" as nt1{
+        state "Evangelicos" as nt2{ 
+            Mateo --&gt; Marcos 
+            Marcos --&gt; Lucas
+            Lucas --&gt; Juan 
+        }  
+
+
+        state "Historia" as nt3{ 
+            Hechos
+        }  
+
+        state "Cartas de Pablo" as nt4{ 
+            Romanos --&gt; 1_Corintios 
+            1_Corintios --&gt; 2_Corintios
+            2_Corintios --&gt; Galatas 
+            Galatas --&gt; Efesios
+            Efesios --&gt; Filipenses
+            Filipenses --&gt; Colosenses 
+            Colosenses --&gt; 1_Tesalonisesnses
+            1_Tesalonisesnses --&gt; 2_Tesalonisenses
+            2_Tesalonisenses --&gt; 1_Timoteo 
+            1_Timoteo --&gt; 2_Timoteo
+            2_Timoteo --&gt; Tito
+            Tito --&gt; Filemon         
+        }  
+
+        state "Cartas Generales" as nt5{ 
+            Hechos --&gt; Santiago 
+            Santiago --&gt; 1_Pedro
+            1_Pedro --&gt; 2_Pedro 
+            2_Pedro --&gt; Efesios
+            Efesios --&gt; 1_Juan
+            1_Juan --&gt; 2_Juan 
+            2_Juan --&gt; 3_Juan
+            3_Juan --&gt; Judas  
+        }  
+
+        state "Historia" as nt3{ 
+            Hechos
+        }  
+    }</code></pre>
 
 
 
