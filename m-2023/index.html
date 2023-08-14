@@ -656,7 +656,7 @@
     "data": {"values": [
             {"versiculos": 51, "mes": "Enero"}, {"versiculos": 18, "mes": "Febrero"}, {"versiculos": 0, "mes": "Marzo"}, {"versiculos": 3, "mes": "Abril"}, {"versiculos": 0, "mes": "Mayo"}, {"versiculos": 0, "mes": "Junio"},{"versiculos": 9, "mes": "Julio"}, {"versiculos": 11, "mes": "Agosto"}, {"versiculos": 0, "mes": "Septiembre"}, {"versiculos": 0, "mes": "Octubre"}, {"versiculos": 0, "mes": "Noviembre"}, {"versiculos": 0, "mes": "Diciembre"}]},     
     "mark": {"type": "bar"},
-    "transform": [{"calculate": "'m-2023/' + datum.mes", "as": "url"}],
+    "transform": [{"calculate": "datum.mes", "as": "url"}],
     "encoding": {
         "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]},
         "y": {"field": "versiculos", "type": "quantitative"},
