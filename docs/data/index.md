@@ -1,4 +1,4 @@
-# Contextos Biblicos - Libros de la Biblia 
+# Contextos Bíblicos - Libros de la Biblia 
 
 ## **Antiguo Testamento**
 ``` mermaid
