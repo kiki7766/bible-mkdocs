@@ -15,6 +15,10 @@
         <link rel="canonical" href="https://kiki7766.github.io/bible-mkdocs/data/">
       
       
+        <link rel="prev" href="..">
+      
+      
+        <link rel="next" href="../m-2023/">
       
       <link rel="icon" href="../assets/fire.jpg">
       <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.18">
@@ -268,6 +272,55 @@
 
   
   
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index md-nav__link--active">
+          <a href="./">Información Técnica de la Biblia</a>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Información Técnica de la Biblia
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
   
     
       
@@ -277,7 +330,7 @@
       
       
       
-      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
       
       
         
@@ -316,14 +369,14 @@
         <div class="md-nav__link md-nav__link--index ">
           <a href="../m-2023/">Historial de Lecturas Bíblica Mensuales 2023</a>
           
-            <label for="__nav_2">
+            <label for="__nav_3">
               <span class="md-nav__icon md-icon"></span>
             </label>
           
         </div>
       
-      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
-        <label class="md-nav__title" for="__nav_2">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
           <span class="md-nav__icon md-icon"></span>
           Historial de Lecturas Bíblica Mensuales 2023
         </label>
@@ -539,8 +592,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#antiguo-testamento_1" class="md-nav__link">
-    Antiguo Testamento
+  <a href="#nuevo-testamento" class="md-nav__link">
+    Nuevo Testamento
   </a>
   
 </li>
@@ -567,37 +620,37 @@
 <h2 id="antiguo-testamento"><strong>Antiguo Testamento</strong></h2>
 <pre class="mermaid"><code>stateDiagram-v2
     state "Antiguo Testamento" as at1{
-        state "Pentateuco" as at2{ 
-            Genesis --&gt; Exodo 
-            Exodo --&gt; Levitico
-            Levitico --&gt; Numeros 
-            Numeros --&gt; Deuteronomio
+        state "El Pentateuco" as at2{ 
+            Génesis --&gt; Éxodo 
+            Éxodo --&gt; Levítico
+            Levítico --&gt; Números 
+            Números --&gt; Deuteronomio
         }  
 
-        state "Historia" as at3{
-            Josue --&gt; Jueces
+        state "Libros Históricos" as at3{
+            Josué --&gt; Jueces
             Jueces --&gt; Rut
             Rut --&gt; 1_Samuel
             1_Samuel --&gt; 2_Samuel 
             2_Samuel --&gt; 1_Reyes
             1_Reyes --&gt; 2_Reyes
-            2_Reyes --&gt; 1_Cronicas
-            1_Cronicas --&gt; 2_Cronicas
-            2_Cronicas --&gt; Esdras
-            Esdras --&gt; Nehemias
-            Nehemias --&gt; Ester
+            2_Reyes --&gt; 1_Crónicas
+            1_Crónicas --&gt; 2_Crónicas
+            2_Crónicas --&gt; Esdras
+            Esdras --&gt; Nehemías
+            Nehemías --&gt; Ester
         }
 
-        state "Literatura de Sabiduria" as at4{
+        state "Libros Poéticos" as at4{
             Job --&gt; Salmos
             Salmos --&gt; Proverbios
-            Proverbios --&gt; Eclesiastes
-            Eclesiastes --&gt; Cantares
+            Proverbios --&gt; Eclesiastés
+            Eclesiastés --&gt; Cantares
         }
 
         state "Profetas Mayores" as at5{
-            Isaias --&gt; Jeremias
-            Jeremias --&gt; Lamentaciones
+            Isaías --&gt; Jeremías
+            Jeremías --&gt; Lamentaciones
             Lamentaciones --&gt; Ezequiel
             Ezequiel --&gt; Daniel
         }   
@@ -605,36 +658,36 @@
         state "Profetas Menores" as at6{
             Oseas --&gt; Joel
             Joel --&gt; Amos
-            Amos --&gt; Abdias
-            Abdias --&gt; Jonas 
-            Jonas --&gt; Miqueas
-            Miqueas --&gt; Nahum
-            Nahum --&gt; Habacuc
-            Habacuc --&gt; Sofonias
-            Sofonias --&gt; Hageo
-            Hageo --&gt; Zacarias
-            Zacarias --&gt; Malaquias
+            Amos --&gt; Abdías
+            Abdías --&gt; Jonás 
+            Jonás --&gt; Miqueas
+            Miqueas --&gt; Nahúm
+            Nahúm --&gt; Habacuc
+            Habacuc --&gt; Sofonías
+            Sofonías --&gt; Hageo
+            Hageo --&gt; Zacarías
+            Zacarías --&gt; Malaquías
         }             
     }</code></pre>
-<h2 id="antiguo-testamento_1"><strong>Antiguo Testamento</strong></h2>
+<h2 id="nuevo-testamento"><strong>Nuevo Testamento</strong></h2>
 <pre class="mermaid"><code>stateDiagram-v2
     state "Nuevo Testamento" as nt1{
-        state "Evangelicos" as nt2{ 
+        state "Evangelios" as nt2{ 
             Mateo --&gt; Marcos 
             Marcos --&gt; Lucas
             Lucas --&gt; Juan 
         }  
 
 
-        state "Historia" as nt3{ 
+        state "Libro Històrico" as nt3{ 
             Hechos
         }  
 
-        state "Cartas de Pablo" as nt4{ 
+        state "Epístolas Paulinas" as nt4{ 
             Romanos --&gt; 1_Corintios 
             1_Corintios --&gt; 2_Corintios
-            2_Corintios --&gt; Galatas 
-            Galatas --&gt; Efesios
+            2_Corintios --&gt; Gálatas 
+            Gálatas --&gt; Efesios
             Efesios --&gt; Filipenses
             Filipenses --&gt; Colosenses 
             Colosenses --&gt; 1_Tesalonisesnses
@@ -642,23 +695,23 @@
             2_Tesalonisenses --&gt; 1_Timoteo 
             1_Timoteo --&gt; 2_Timoteo
             2_Timoteo --&gt; Tito
-            Tito --&gt; Filemon         
+            Tito --&gt; Filemón         
         }  
 
-        state "Cartas Generales" as nt5{ 
-            Hechos --&gt; Santiago 
+        state "Epístolas Generales" as nt5{ 
+            Hebreos --&gt; Santiago
             Santiago --&gt; 1_Pedro
             1_Pedro --&gt; 2_Pedro 
-            2_Pedro --&gt; Efesios
-            Efesios --&gt; 1_Juan
-            1_Juan --&gt; 2_Juan 
+            2_Pedro --&gt; 1_Juan
+            1_Juan --&gt; 2_Juan
             2_Juan --&gt; 3_Juan
-            3_Juan --&gt; Judas  
-        }  
+            3_Juan --&gt; Judas
+        } 
 
-        state "Historia" as nt3{ 
-            Hechos
-        }  
+        state "Libro Profético" as nt6{
+            Apocalipsis
+        }   
+
     }</code></pre>
 
 
@@ -678,6 +731,42 @@
       
         <footer class="md-footer">
   
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href=".." class="md-footer__link md-footer__link--prev" aria-label="Previous: Home" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Home
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../m-2023/" class="md-footer__link md-footer__link--next" aria-label="Next: Historial de Lecturas Bíblica" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Historial de Lecturas Bíblica
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
     
   
   <div class="md-footer-meta md-typeset">
