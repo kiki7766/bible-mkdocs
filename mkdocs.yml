@@ -104,8 +104,8 @@ markdown_extensions:
 # Page Tree (FINALLY)
 nav:
   - Home: index.md
-  # - Información Técnica de la Biblia:
-  #   - data/index.md
+  - Información Técnica de la Biblia:
+    - data/index.md
   - Historial de Lecturas Bíblica Mensuales 2023:
     - m-2023/index.md
     - Enero 2023: m-2023/enero.md
