@@ -97,6 +97,5 @@ stateDiagram-v2
         state "Libro Profético" as nt6{
             Apocalipsis
         }   
-
     }
 ```
