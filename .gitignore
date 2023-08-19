@@ -136,3 +136,8 @@ dmypy.json
 docs/.DS_Store
 venv
 .vscode
+
+# Dependency directories
+node_modules/
+.env
+.venv

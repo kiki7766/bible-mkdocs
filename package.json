@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@semantic-release/github": "^9.0.4"
+  }
+}
