@@ -13,7 +13,7 @@ stateDiagram-v2
         
         state "Libros Históricos" as at3{
             Josué --> Jueces
-            Jueces --> Rut
+            Jueces --> Rut 
             Rut --> 1_Samuel
             1_Samuel --> 2_Samuel 
             2_Samuel --> 1_Reyes
