@@ -20,7 +20,7 @@
 | [Junio](junio.md){.md-button}         | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**   | <font color=orange>Libros</font>: **10** <font color=red>Capítulos</font>: **14** <font color=lime>Versículos</font>: **72**  |
 | [Julio](julio.md){.md-button}         | <font color=orange>Libros</font>: **1** <font color=red>Capítulos</font>: **1** <font color=lime>Versículos</font>: **9**    | <font color=orange>Libros</font>: **10** <font color=red>Capítulos</font>: **15** <font color=lime>Versículos</font>: **81**  |
 | [Agosto](agosto.md){.md-button}        |  <font color=orange>Libros</font>: **1** <font color=red>Capítulos</font>: **1** <font color=lime>Versículos</font>: **11**   |  <font color=orange>Libros</font>: **11** <font color=red>Capítulos</font>: **16** <font color=lime>Versículos</font>: **92** |
-| [Septiembre](septiembre.md){.md-button}    |  | |
+| [Septiembre](septiembre.md){.md-button}    |  <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**   | <font color=orange>Libros</font>: **11** <font color=red>Capítulos</font>: **16** <font color=lime>Versículos</font>: **92** |
 | [Octubre](octubre.md){.md-button}       |  | |
 | [Noviembre](noviembre.md){.md-button}     |  | |
 | [Diciembre](diciembre.md){.md-button}     |  | |
