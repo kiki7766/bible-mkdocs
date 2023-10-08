@@ -50,6 +50,7 @@ plugins:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - glightbox
   - charts
+  # - table-reader
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega@5
