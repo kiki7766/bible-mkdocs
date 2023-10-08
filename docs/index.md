@@ -23,7 +23,7 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 ## Comentarios o sugerencias :octicons-comment-discussion-24:
 
 - Puedes escribirme a [peggy.gonzalez@upr.edu](mailto:peggy.gonzalez@upr.edu){target=_blank}
-- También puedes escribirme a [hakunawonderland@gmail.com](mailto:hakunawonderland@gmail.com){target=_blank}
+- También puedes escribirme a [peggy.gonzalez@outlook.com](mailto:peggy.gonzalez@outlook.com){target=_blank}
 
 ### Contribuciones :fontawesome-solid-people-group:
 
