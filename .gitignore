@@ -144,3 +144,4 @@ datatest.md
 node_modules/
 .env
 .venv
+.gitignore/
