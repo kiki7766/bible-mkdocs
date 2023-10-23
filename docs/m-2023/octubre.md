@@ -5,7 +5,7 @@
 
 ???+ abstract ""
     <figure markdown><figcaption>" "</figcaption>
-    ![ ](../assets/ ){width=300} </figure>
+    ![Some picture](../assets/ ){width=300} </figure>
     <font size=4, color=orange>**Versículos**</font>:
 
     > _<font color=orange> ** **. . </font> 
