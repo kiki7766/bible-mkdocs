@@ -1,6 +1,6 @@
 # **Lecturas Bíblicas del Mes de Octubre 2023**
 
-##  Octubre de 2023 :material-calendar-heart:
+##  23 de octubre de 2023 :material-calendar-heart:
 ###  Valle de los Huesos Secos
 
 ???+ abstract "Ezequiel 37:1-14"
