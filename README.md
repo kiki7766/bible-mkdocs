@@ -18,4 +18,4 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 - Durante cada día o semana, se estará actualizando con el versículo diario o semanal correspondiente al mes.
 
 ## Licencias utilizadas :balance_scale:
-- MIT License 
+- Apache-2.0 License 
