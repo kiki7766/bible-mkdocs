@@ -15,6 +15,15 @@
     - Al principio, muchas veces cuando leemos este pasaje nos preguntamos: ¿Será una parábola o una visión o quizás un hecho? Pues desde mi punto de vista diré que es una visión, porque si leemos cuidadosamente el versículo 1 donde dice "_La mano de Jehová vino sobre mí..._" implica que Jehová vino sobre Ezequiel a mostrarle algo, una visión, donde le enseñaría una profecía sobre el pueblo de Israel que ellos se sentiran destruidos, cansados, agotados, pero Jehová les quiere impartir el mensaje que no hay nada imposible para El, porque Jehová levantará hasta los huesos secos para crear un ejército de soldados donde batallan la buena palabra de la fe demonstrando el gran poder que Dios tiene.
     - Dicho esto, Dios muchas veces nos muestra, nos dice y nos enseña que debemos depender completamente en él porque para Dios no hay nada imposible. Cuando Dios nos muestra cosas, situaciones en la vida es para enseñarnos que solo debemos depender de él para poder continuar. A veces nos dice, nos susura al oído para solo dejarnos saber que esta allí para nosotros. Y finalmente, nos enseña que por más díficil sean las situaciones en la vida, que sin Dios no lograremos nada. 
 
+##  29 de octubre de 2023 :material-calendar-heart:
+###  Valle de los Huesos Secos
+
+???+ abstract "Ezequiel 37:1-14"
+    <figure markdown><figcaption>"Valle de los Huesos Secos"</figcaption>
+    ![Dry Bones](../assets/drybones.jpg ){width=300} </figure>
+    <font size=4, color=orange>**Versículos**</font>:
+
+
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 1
     - Total de Capítulos leídos: 1
