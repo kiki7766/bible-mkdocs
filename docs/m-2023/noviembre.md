@@ -5,5 +5,5 @@
 
 ???+ abstract ""
     <figure markdown><figcaption>""</figcaption>
-    ![Dry Bones](../assets/ ){width=300} </figure>
+    ![Loading Image](../assets/ ){width=300} </figure>
     <font size=4, color=orange>**Versículos**</font>:
