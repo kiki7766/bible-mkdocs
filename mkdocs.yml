@@ -23,8 +23,14 @@ theme:
     - content.code.copy
     - navigation.indexes
     - navigation.sections
-    - content.tabs.link
+    # - toc.integrate 
+    - toc.follow 
+    # - navigation.top  
+    # - navigation.path
+    # - navigation.expand
     # - navigation.tabs
+    # - navigation.tabs.sticky
+    - content.tabs.link
     - navigation.footer
   palette:
     - scheme: default

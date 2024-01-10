@@ -34,7 +34,7 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 ```vegalite
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Estatus de Lecturas Mensual",
+    "title": "Estatus de Lecturas Mensual 2023",
     "description": "A simple bar chart with random data.",
     "data": {"values": [
             {"versiculos": 51, "mes": "enero"}, {"versiculos": 18, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 3, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 9, "mes": "julio"}, {"versiculos": 11, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 14, "mes": "octubre"}, {"versiculos": 5, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},     
