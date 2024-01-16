@@ -1,4 +1,4 @@
-# Historial de Lecturas Bíblica
+# Historial de Lecturas Bíblica 2023
 
 :fontawesome-solid-gear: El propósito de las lecturas mensuales es para poder retarme y entender que planes Dios pudiese tener para mi durante este año y espero que sea también de gran bendición para sus vida.
 
