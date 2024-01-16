@@ -23,7 +23,8 @@
 | [Septiembre](septiembre.md){.md-button}    |  <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**   | <font color=orange>Libros</font>: **11** <font color=red>Capítulos</font>: **16** <font color=lime>Versículos</font>: **92** |
 | [Octubre](octubre.md){.md-button}       | <font color=orange>Libros</font>: **1** <font color=red>Capítulos</font>: **1** <font color=lime>Versículos</font>: **14**  | <font color=orange>Libros</font>: **12** <font color=red>Capítulos</font>: **17** <font color=lime>Versículos</font>: **106**  |
 | [Noviembre](noviembre.md){.md-button}     |<font color=orange>Libros</font>: **1** <font color=red>Capítulos</font>: **1** <font color=lime>Versículos</font>: **5**  | <font color=orange>Libros</font>: **12** <font color=red>Capítulos</font>: **18** <font color=lime>Versículos</font>: **111** |
-| [Diciembre](diciembre.md){.md-button}     |  | |
+| [Diciembre](diciembre.md){.md-button}     | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0** |  <font color=orange>Libros</font>: **12** <font color=red>Capítulos</font>: **18** <font color=lime>Versículos</font>: **111**|
+| Total de Lecturas :| <font color=orange>Libros</font>: **12** <font color=red>Capítulos</font>: **18**| <font color=lime>Versículos</font>: **111** |
 
 ## Gráfica de Lecturas Mensuales 2023
 
@@ -34,7 +35,7 @@
     "description": "A simple bar chart with random data.",
     "data": {"values": [
             {"versiculos": 51, "mes": "enero"}, {"versiculos": 18, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 3, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 9, "mes": "julio"}, {"versiculos": 11, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 14, "mes": "octubre"}, {"versiculos": 5, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},    
-    "mark": {"type": "bar"},
+    "mark": {"type": "bar","cornerRadius":12},
     "transform": [{"calculate": "datum.mes", "as": "url"}],
     "encoding": {
         "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]},
