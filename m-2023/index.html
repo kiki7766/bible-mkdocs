@@ -690,8 +690,13 @@
 </tr>
 <tr>
 <td align="center"><a class="md-button" href="diciembre/">Diciembre</a></td>
-<td align="center"></td>
-<td align="center"></td>
+<td align="center"><font color=orange>Libros</font>: <strong>0</strong> <font color=red>Capítulos</font>: <strong>0</strong> <font color=lime>Versículos</font>: <strong>0</strong></td>
+<td align="center"><font color=orange>Libros</font>: <strong>12</strong> <font color=red>Capítulos</font>: <strong>18</strong> <font color=lime>Versículos</font>: <strong>111</strong></td>
+</tr>
+<tr>
+<td align="center">Total de Lecturas :</td>
+<td align="center"><font color=orange>Libros</font>: <strong>12</strong> <font color=red>Capítulos</font>: <strong>18</strong></td>
+<td align="center"><font color=lime>Versículos</font>: <strong>111</strong></td>
 </tr>
 </tbody>
 </table>
@@ -702,7 +707,7 @@
     "description": "A simple bar chart with random data.",
     "data": {"values": [
             {"versiculos": 51, "mes": "enero"}, {"versiculos": 18, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 3, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 9, "mes": "julio"}, {"versiculos": 11, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 14, "mes": "octubre"}, {"versiculos": 5, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},    
-    "mark": {"type": "bar"},
+    "mark": {"type": "bar","cornerRadius":12},
     "transform": [{"calculate": "datum.mes", "as": "url"}],
     "encoding": {
         "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]},
