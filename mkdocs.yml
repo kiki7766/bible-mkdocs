@@ -113,6 +113,20 @@ nav:
   - Home: index.md
   - Información Técnica de la Biblia:
     - data/index.md
+  - Historial de Lecturas Bíblica Mensuales 2024:
+    - m-2024/index.md
+    - Enero 2024: m-2024/enero.md
+    # - Febrero 2024: m-2024/febrero.md  
+    # - Marzo 2024: m-2024/marzo.md
+    # - Abril 2024: m-2024/abril.md
+    # - Mayo 2024: m-2024/mayo.md
+    # - Junio 2024: m-2024/junio.md
+    # - Julio 2024: m-2024/julio.md
+    # - Agosto 2024: m-2024/agosto.md
+    # - Septiembre 2024: m-2024/septiembre.md
+    # - Octubre 2024: m-2024/octubre.md
+    # - Noviembre 2024: m-2024/noviembre.md
+    # - Diciembre 2024: m-2024/diciembre.md    
   - Historial de Lecturas Bíblica Mensuales 2023:
     - m-2023/index.md
     - Enero 2023: m-2023/enero.md
