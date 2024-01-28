@@ -27,7 +27,7 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 
 ### Contribuciones :fontawesome-solid-people-group:
 
-- Acepto a colaboradores o contribuidores que deseen ayudarme a expandir este proyecto para realizar o cumplir con la meta de leer lecturas bíblicas mensuales o semanales durante este año 2023. 
+- Acepto a colaboradores o contribuidores que deseen ayudarme a expandir este proyecto para realizar o cumplir con la meta de leer lecturas bíblicas mensuales o semanales durante este año 2024. 
 
 ## Gráfica de Lecturas Mensuales 2024
 ???+ tip "[Gráfica de Lecturas Mensuales 2024](m-2024/index.md)"
