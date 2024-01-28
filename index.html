@@ -346,6 +346,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#grafica-de-lecturas-mensuales-2024" class="md-nav__link">
+    Gráfica de Lecturas Mensuales 2024
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#grafica-de-lecturas-mensuales-2023" class="md-nav__link">
     Gráfica de Lecturas Mensuales 2023
   </a>
@@ -428,6 +435,71 @@
         
           
         
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="m-2024/">Historial de Lecturas Bíblica Mensuales 2024</a>
+          
+            <label for="__nav_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Historial de Lecturas Bíblica Mensuales 2024
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="m-2024/enero/" class="md-nav__link">
+        Enero 2024
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
           
         
           
@@ -457,14 +529,14 @@
         <div class="md-nav__link md-nav__link--index ">
           <a href="m-2023/">Historial de Lecturas Bíblica Mensuales 2023</a>
           
-            <label for="__nav_3">
+            <label for="__nav_4">
               <span class="md-nav__icon md-icon"></span>
             </label>
           
         </div>
       
-      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
-        <label class="md-nav__title" for="__nav_3">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
           <span class="md-nav__icon md-icon"></span>
           Historial de Lecturas Bíblica Mensuales 2023
         </label>
@@ -728,6 +800,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#grafica-de-lecturas-mensuales-2024" class="md-nav__link">
+    Gráfica de Lecturas Mensuales 2024
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#grafica-de-lecturas-mensuales-2023" class="md-nav__link">
     Gráfica de Lecturas Mensuales 2023
   </a>
@@ -781,7 +860,29 @@
 <ul>
 <li>Acepto a colaboradores o contribuidores que deseen ayudarme a expandir este proyecto para realizar o cumplir con la meta de leer lecturas bíblicas mensuales o semanales durante este año 2023. </li>
 </ul>
-<h2 id="grafica-de-lecturas-mensuales-2023"><a href="m-2023/">Gráfica de Lecturas Mensuales 2023</a></h2>
+<h2 id="grafica-de-lecturas-mensuales-2024">Gráfica de Lecturas Mensuales 2024</h2>
+<details class="tip" open="open">
+<summary><a href="m-2024/">Gráfica de Lecturas Mensuales 2024</a></summary>
+<p><vegachart style='width: 100%'  class="vegalite">{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Estatus de Lecturas Mensual 2024",
+    "description": "A simple bar chart with random data.",
+    "data": {"values": [
+            {"versiculos": 0, "mes": "enero"}, {"versiculos": 0, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 0, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 0, "mes": "julio"}, {"versiculos": 0, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 0, "mes": "octubre"}, {"versiculos": 0, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},    
+    "mark": {"type": "bar","cornerRadius":0},
+    "transform": [{"calculate": "datum.mes", "as": "url"}],
+    "encoding": {
+        "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]},
+        "y": {"field": "versiculos", "type": "quantitative"},
+        "color": {"field": "mes", "type": "nominal",  "title": "Legend", "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]},
+        "tooltip": [{"field": "versiculos", "type": "quantitative"}, {"field": "mes", "type": "nominal"}],
+        "href": {"field": "url", "type": "nominal"}
+    }
+}</vegachart></p>
+</details>
+<h2 id="grafica-de-lecturas-mensuales-2023">Gráfica de Lecturas Mensuales 2023</h2>
+<details class="tip" open="open">
+<summary><a href="m-2023/">Gráfica de Lecturas Mensuales 2023</a></summary>
 <p><vegachart style='width: 100%'  class="vegalite">{
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Estatus de Lecturas Mensual 2023",
@@ -798,6 +899,7 @@
         "href": {"field": "url", "type": "nominal"}
     }
 }</vegachart></p>
+</details>
 
 
 
