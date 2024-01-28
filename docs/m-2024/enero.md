@@ -2,7 +2,7 @@
 
 ## 28 de enero de 2024 :material-calendar-heart:
 
-???+ abstract "Salmos 19: 1-14"
+???+ abstract "Salmos 19: 1-14, 2 Corintios 5:7"
     <figure markdown><figcaption>Los Cielos Proclaman la Gloria ded Dios.</figcaption>
     ![Salmos 19](../assets/Ps19.jpeg){ width="300" }</figure>
 
@@ -12,11 +12,12 @@
 
     <font size=4, color=orange>**Mensaje Aprendido**:</font>
 
-    - De acuerdo a los textos bíblicos y referencias, 
-
+    - De acuerdo a los textos bíblicos y referencias, cuando se habla del firmamento de Dios, se refiere al cielo y/o galaxia creada por Dios. Dicho esto, muchas veces nosotros no contemplamos los cielos, naturaleza, animales, el mar, el universo para notar de la hermosura y grandeza que Dios hace para nosotros.
+    - Nosotros como cristianos tenemos la responsabilidad de confiar plenamente en Dios para poder pedirle la guianza y sabiduría necesaria para seguir adelante.
+    - Deberíamos confiar plenamente en Dios, no por vista sino por fe (_**<font color=orange>2 Corintios 5:7</font>**_), y ser agradecidos pareciando que Dios nos provee día a día un nuevo amanecer para continuar nuestra vida y poder tener una relación con Dios mas cercana de ser posible. 
 
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
     - Total de Libros leídos: 2
-    - Total de Capítulos leídos: 
-    - Total de Versículos leídos: 
+    - Total de Capítulos leídos: 2
+    - Total de Versículos leídos: 15

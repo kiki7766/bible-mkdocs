@@ -12,7 +12,7 @@
 
 | Mes 2024      | Total de lecturas       | General - Total de lecturas       |
 | :-----------: | :------------------------------------:| :------------------------------------:|
-| [Enero](enero.md){.md-button}        | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0** | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0** |
+| [Enero](enero.md){.md-button}        | <font color=orange>Libros</font>: **2** <font color=red>Capítulos</font>: **2** <font color=lime>Versículos</font>: **15** | <font color=orange>Libros</font>: **2** <font color=red>Capítulos</font>: **2** <font color=lime>Versículos</font>: **15** |
 | [Febrero](febrero.md){.md-button}       | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0** | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0** |
 | [Marzo](marzo.md){.md-button} | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**  | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0** |
 | [Abril](abril.md){.md-button}         | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**  | <font color=orange>Libros</font>: **0** <font color=red>Capítulos</font>: **0** <font color=lime>Versículos</font>: **0**  |
@@ -34,7 +34,7 @@
     "title": "Estatus de Lecturas Mensual 2024",
     "description": "A simple bar chart with random data.",
     "data": {"values": [
-            {"versiculos": 0, "mes": "enero"}, {"versiculos": 0, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 0, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 0, "mes": "julio"}, {"versiculos": 0, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 0, "mes": "octubre"}, {"versiculos": 0, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},    
+            {"versiculos": 15, "mes": "enero"}, {"versiculos": 0, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 0, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 0, "mes": "julio"}, {"versiculos": 0, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 0, "mes": "octubre"}, {"versiculos": 0, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},    
     "mark": {"type": "bar","cornerRadius":0},
     "transform": [{"calculate": "datum.mes", "as": "url"}],
     "encoding": {
