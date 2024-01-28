@@ -19,3 +19,6 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 
 ## Licencias utilizadas :balance_scale:
 - Apache-2.0 License 
+
+## Enlace a la página
+:octicons-link-24: Visite [kiki7766.github.io/bible-mkdocs](kiki7766.github.io/bible-mkdocs/)
