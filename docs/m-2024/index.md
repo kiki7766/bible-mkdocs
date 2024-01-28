@@ -1,10 +1,10 @@
 # Historial de Lecturas Bíblica 2024
 
-:musical_note:
+:musical_note: Este año 2024 como muchas de mis metas será leer un poco más de la palabra de Dios ya que no me motivo a leer contantemente. Estaré escribiendo las lecturas bíblicas hasta que vea motivación de mi misma y complete lecturas por mi propia cuenta.
 
-:notes: 
+:notes: Cabe decir que solo Dios puede cambiar nuestros corazones como nuestros pensamientos, actos y entre otras cosa, por ende, espero que todo sea la volutad de Dios para que me guíe en este camino.  
 
-:musical_note:
+:musical_note: Dejenme saber si tienen dudas o preguntas, espero que se gozen. :)
 
 ## Desglose de lecturas mensuales
 !!! quote "Nota: Si los libros y/o capítulos son repetidos no seran contados como un libro/capítulo nuevo de lectura."
