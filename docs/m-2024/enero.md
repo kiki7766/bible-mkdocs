@@ -1,6 +1,6 @@
-# **Lecturas Bíblicas del Mes de Enero 2023**
+# **Lecturas Bíblicas del Mes de Enero 2024**
 
-## 27 de enero de 2023 :material-calendar-heart:
+## 28 de enero de 2024 :material-calendar-heart:
 
 ???+ abstract "Salmos 19: 1-14"
     <figure markdown><figcaption>Los Cielos Proclaman la Gloria ded Dios.</figcaption>
