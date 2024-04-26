@@ -20,5 +20,9 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 ## Licencias utilizadas :balance_scale:
 - Apache-2.0 License 
 
-## Enlace a la página
+## Enlace a la página :link:
 :link: Visite [kiki7766.github.io/bible-mkdocs](https://kiki7766.github.io/bible-mkdocs/)
+
+## Notas 
+Marcos 16:15
+> **15** Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura. 
