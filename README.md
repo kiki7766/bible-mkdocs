@@ -21,4 +21,4 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
 - Apache-2.0 License 
 
 ## Enlace a la página
-:link: Visite [kiki7766.github.io/bible-mkdocs](kiki7766.github.io/bible-mkdocs/)
+:link: Visite [kiki7766.github.io/bible-mkdocs](https://kiki7766.github.io/bible-mkdocs/)
