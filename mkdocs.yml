@@ -9,11 +9,12 @@ repo_name: bible-mkdocs
 repo_url: https://github.com/kiki7766/bible-mkdocs
 
 # Copyrights
-copyright: Copyright &copy; 2023 Kiki7766 by Peggy Gonzalez
+copyright: Copyright &copy; 2024 Kiki7766 by Peggy Gonzalez
 
 # Configuration of Personal Page
 theme:
   name: material
+  # custom_dir: overrides
   icon:
     logo: fontawesome/solid/book-bible
   favicon: assets/fire.jpg
@@ -77,7 +78,13 @@ extra:
       link: https://deviantart.com/kiki7766   
     - icon: fontawesome/brands/discord
       link: https://discord.com/Kiki7766#1421     
-
+  # alternate:
+  #   - name: English
+  #     link: /en/ 
+  #     lang: en
+  #   - name: Español
+  #     link: /
+  #     lang: es
 # Extensions
 markdown_extensions:
   - abbr
