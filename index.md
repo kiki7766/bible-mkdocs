@@ -38,7 +38,7 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
         "description": "A simple bar chart with random data.",
         "data": {"values": [
                 {"versiculos": 15, "mes": "enero"}, {"versiculos": 0, "mes": "febrero"}, {"versiculos": 0, "mes": "marzo"}, {"versiculos": 0, "mes": "abril"}, {"versiculos": 0, "mes": "mayo"}, {"versiculos": 0, "mes": "junio"},{"versiculos": 0, "mes": "julio"}, {"versiculos": 0, "mes": "agosto"}, {"versiculos": 0, "mes": "septiembre"}, {"versiculos": 0, "mes": "octubre"}, {"versiculos": 0, "mes": "noviembre"}, {"versiculos": 0, "mes": "diciembre"}]},    
-        "mark": {"type": "bar", "cornerRadius":15},
+        "mark": {"type": "bar", "cornerRadius":12},
         "transform": [{"calculate": "'m-2024/' + datum.mes", "as": "url"}],
         "encoding": {
             "x": {"field": "mes", "type": "nominal", "title": "Meses", "sort": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]},

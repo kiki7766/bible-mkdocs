@@ -9,11 +9,12 @@ repo_name: bible-mkdocs
 repo_url: https://github.com/kiki7766/bible-mkdocs
 
 # Copyrights
-copyright: Copyright &copy; 2023 Kiki7766 by Peggy Gonzalez
+copyright: Copyright &copy; 2024 Kiki7766 by Peggy Gonzalez
 
 # Configuration of Personal Page
 theme:
   name: material
+  # custom_dir: overrides
   icon:
     logo: fontawesome/solid/book-bible
   favicon: assets/fire.jpg
@@ -22,9 +23,15 @@ theme:
     - content.code.annotate
     - content.code.copy
     - navigation.indexes
-    - navigation.sections
-    - content.tabs.link
+    # - navigation.sections
+    # - toc.integrate 
+    - toc.follow 
+    # - navigation.top  
+    # - navigation.path
+    # - navigation.expand
     # - navigation.tabs
+    # - navigation.tabs.sticky
+    - content.tabs.link
     - navigation.footer
   palette:
     - scheme: default
@@ -50,6 +57,7 @@ plugins:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - glightbox
   - charts
+  # - table-reader
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega@5
@@ -70,7 +78,13 @@ extra:
       link: https://deviantart.com/kiki7766   
     - icon: fontawesome/brands/discord
       link: https://discord.com/Kiki7766#1421     
-
+  # alternate:
+  #   - name: English
+  #     link: /en/ 
+  #     lang: en
+  #   - name: Español
+  #     link: /
+  #     lang: es
 # Extensions
 markdown_extensions:
   - abbr
@@ -106,6 +120,20 @@ nav:
   - Home: index.md
   - Información Técnica de la Biblia:
     - data/index.md
+  - Historial de Lecturas Bíblica Mensuales 2024:
+    - m-2024/index.md
+    - Enero 2024: m-2024/enero.md
+    # - Febrero 2024: m-2024/febrero.md  
+    # - Marzo 2024: m-2024/marzo.md
+    # - Abril 2024: m-2024/abril.md
+    # - Mayo 2024: m-2024/mayo.md
+    # - Junio 2024: m-2024/junio.md
+    # - Julio 2024: m-2024/julio.md
+    # - Agosto 2024: m-2024/agosto.md
+    # - Septiembre 2024: m-2024/septiembre.md
+    # - Octubre 2024: m-2024/octubre.md
+    # - Noviembre 2024: m-2024/noviembre.md
+    # - Diciembre 2024: m-2024/diciembre.md    
   - Historial de Lecturas Bíblica Mensuales 2023:
     - m-2023/index.md
     - Enero 2023: m-2023/enero.md

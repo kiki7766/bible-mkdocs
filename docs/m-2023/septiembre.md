@@ -1,8 +1,11 @@
 # **Lecturas Bíblicas del Mes de Septiembre 2023**
 
-##  Septiembre de 2023 :material-calendar-heart:
+## Mes de Septiembre 2023 :material-calendar-heart:
+!!! warning "No hubo Lecturas"
 
-???+ abstract ""
-    <figure markdown><figcaption>""</figcaption>
-    ![Unknown Image](../assets/){width=300} </figure>
-    <font size=4, color=orange>**Versículos**</font>:
+
+
+???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
+    - Total de Libros leídos: 0
+    - Total de Capítulos leídos: 0
+    - Total de Versículos leídos: 0

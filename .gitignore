@@ -136,8 +136,12 @@ dmypy.json
 docs/.DS_Store
 venv
 .vscode
+scripts
+Item_List.xlsx
+datatest.md
 
 # Dependency directories
 node_modules/
 .env
 .venv
+.gitignore/
