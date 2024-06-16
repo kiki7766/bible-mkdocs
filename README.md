@@ -1,28 +1,29 @@
-# Bienvenid@s a mi blog :space_invader:
-## Lectura bíblica mensual :robot:
+# Welcome to my blog :space_invader: 
+Click Here to Read Spanish Version --> [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/kiki7766/bible-mkdocs/blob/master/README.es.md)
+## Monthly Bible Reading :robot:
 
-En esta página encontrarás un diario de versículos leídos de la Santa Biblia.    
+On this page, you will find a journal of verses read from the Holy Bible.
 
-## Biblia Utilizada :blue_book:
+## Bible Used :blue_book:
 
-* `Reina-Valera (RVR 1960)` - Se utiliza esta versión de Biblia ya que es la más utilizada en lecturas bíblicas. 
-* `Editorial Biblia - Biblia de Estudio (RVR 1960)` - Se utiliza la Biblia de estudio para obtener referencias y comentarios para entender la lectura o contexto del versículo bíblico.
+* `New International Version (NVI)` - This version of the Bible will be to expand my reading in English.
+
+## Project Focus :open_file_folder:
+
+- The main focus is to instruct or inform leaders to use ways to motivate Bible reading, since Bible reading is often complex and should be consulted with people knowledgeable in the Bible or using references according to the scriptures' context and not convenience.
+
+## Updates :white_check_mark:
+
+- Every day or week, it will be updated with the corresponding daily or weekly verse for the month.
+
+## Licenses Used :balance_scale:
+- Apache-2.0 License
+
+## Link to the Page :link:
+:link: Visit [kiki7766.github.io/bible-mkdocs](https://kiki7766.github.io/bible-mkdocs/)
+
+## Notes :memo:
+Mark 16:15
+> **15** He said to them, “Go into all the world and preach the gospel to all creation.
 
 
-## Enfoque de proyecto :open_file_folder:
-
-- El enfoque principal es instruir o informar líderes de utilizar formas para motivar a la lectura bíblica ya que muchas veces la lectura bíblica es compleja y se debe consultar con personas de conocimiento bíblico o utilizar referencias de acuerdo a conforme de las escritura y no a conveniencia del mismo/a.
-
-## Updates/Actualizaciones :white_check_mark:
-
-- Durante cada día o semana, se estará actualizando con el versículo diario o semanal correspondiente al mes.
-
-## Licencias utilizadas :balance_scale:
-- Apache-2.0 License 
-
-## Enlace a la página :link:
-:link: Visite [kiki7766.github.io/bible-mkdocs](https://kiki7766.github.io/bible-mkdocs/)
- 
-## Notas :memo:
-Marcos 16:15
-> **15** Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura. 
