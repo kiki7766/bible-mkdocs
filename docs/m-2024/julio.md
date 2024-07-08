@@ -27,6 +27,6 @@
 
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
-    - Total de Libros leídos: 
-    - Total de Capítulos leídos: 
-    - Total de Versículos leídos: 
+    - Total de Libros leídos: 2
+    - Total de Capítulos leídos: 4
+    - Total de Versículos leídos: 16
