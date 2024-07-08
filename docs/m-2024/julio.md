@@ -17,7 +17,11 @@
     > _<font color=orange> **Salmos 112:9** <br></font>_ Reparte, da a los pobres; Su justicia permanece para siempre;
 
     <font size=4, color=orange>**Mensaje Aprendido**:</font>
-
+    - Tuve una conversacion con los jovenes y la maestra sobre los temas como la generosidad.
+    - Muchas veces se intento hablar sobre la generosidad pero se hizo difícil encontrar un ejemplo fácil para llevarlo dentro del tema.
+    - En fin, se discutió de varios temas incluyendo el Reino de Dios es como regalo y privilegio que Dios nos permite tener, muchas veces lo vemos como algo cotidiano pero sabemos que al final todo lo que tenemos es parte de Dios y no de nosotros. Hay que tener en cuenta que muchas de las cosas, que por más que luchemos por ellas, todas le pertenecen a Dios porque a traves de su gracia nos permite obtener las cosas que le pedimos muchas veces y Dios en su misericordia nos las permite adquirir u obtener como regalo o recompensa por servirle como Dios quiere.
+    - Tenemos que entender que los planes de Dios es siempre ponerlo en primer lugar, porque de esa manera siempre lo estamos representando a otros y pueden ver el reflejo de Dios en nosotros para que los demás se acerquen a Dios por medio de nosotros como instrumento en las manos de Dios. Muchas veces no vemos como Dios trabaja en nosotros e incluso nos utiliza para buscar a otros pero nosotros por nuestra ignorancia ignoramos la voz de Dios y prestamos atención a lo material que a Dios mismo por eso Dios nos advierte muchas veces que debemos hacer su voluntad para que sea Dios tocando nuestros corazones. 
+    - Por último, muchas de las veces Dios trabaja en nuestro corazón a través de su palabra pero nosotros ignoramos esas palabras y las pasamos por alto en vez de escucharle y ser sumiso a su palabras somos tercos e ignoramos ese gran propósito que Dios tiene para con nosotros, ya sea planes, proyectos e incluso metas que nunca se no han ocurrido realizar, ya Dios tiene todas esas cosas planificadas por nosotros pero ... es lamentable no le hacemos caso.
 
     <font size=4, color=orange>**El asunto**:</font>
     > Debemos reflejar la generosidad de Dios.
