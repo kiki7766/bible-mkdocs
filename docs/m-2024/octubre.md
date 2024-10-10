@@ -2,7 +2,7 @@
 
 ## 02 de julio de 2024 :material-calendar-heart:
 
-???+ abstract "Salmos 46:1-3"
+???+ abstract "Salmos 46:1-11"
     <figure markdown><figcaption>Dios es Nuestra Fortaleza</figcaption>
     ![Salmos 19](../assets/bestill.png){ width="300" }</figure>
 
@@ -22,6 +22,6 @@
     > Pídele a Dios que te recuerde "Su fortaleza y ayuda siempre esten presente como prontro auxilio en las tribulaciones."
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
-    - Total de Libros leídos: 1
+    - Total de Libros leídos: 0 (está repetido)
     - Total de Capítulos leídos: 11
     - Total de Versículos leídos: 11
