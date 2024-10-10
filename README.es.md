@@ -26,4 +26,4 @@ En esta página encontrarás un diario de versículos leídos de la Santa Biblia
  
 ## Notas :memo:
 Marcos 16:15
-> **15** Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura. 
+> **15** Y les dijo: "Id por todo el mundo y predicad el evangelio a toda criatura." 

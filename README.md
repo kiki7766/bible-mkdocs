@@ -24,6 +24,6 @@ On this page, you will find a journal of verses read from the Holy Bible.
 
 ## Notes :memo:
 Mark 16:15
-> **15** He said to them, “Go into all the world and preach the gospel to all creation.
+> **15** He said to them, “Go into all the world and preach the gospel to all creation."
 
 
