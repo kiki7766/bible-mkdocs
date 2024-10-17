@@ -22,6 +22,6 @@
     > Pídele a Dios que te recuerde "Su fortaleza y ayuda siempre esten presente como prontro auxilio en las tribulaciones."
 
 ???+ tip "Total Mensual de Lecturas Bíblicas :fontawesome-solid-book-bible:" 
-    - Total de Libros leídos: 0 (está repetido)
+    - Total de Libros leídos: 0 (estan repetidos)
     - Total de Capítulos leídos: 11
     - Total de Versículos leídos: 11
