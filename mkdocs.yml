@@ -1,6 +1,6 @@
 site_name: Challenge Bíblico
 site_url: https://kiki7766.github.io/bible-mkdocs/
-site_author: Peggy Gonzalez (PG)
+site_author: PG
 site_description: >-
   Esta página será dedicada para publicar versos bíblicos mensualmente. 
 
@@ -9,7 +9,7 @@ repo_name: bible-mkdocs
 repo_url: https://github.com/kiki7766/bible-mkdocs
 
 # Copyrights
-copyright: Copyright &copy; 2024 Kiki7766 by Peggy Gonzalez
+copyright: Copyright &copy; 2025 Kiki7766 by PG
 
 # Configuration of Personal Page
 theme:
