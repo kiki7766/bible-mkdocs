@@ -71,13 +71,13 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/kiki7766
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/kiki7766_pg
-    - icon: fontawesome/brands/facebook
-      link: https://facebook.com/kiki7766
+      link: https://instagram.com/kiki7766_
+    # - icon: fontawesome/brands/facebook
+      # link: https://facebook.com/kiki7766
     - icon: fontawesome/brands/deviantart
       link: https://deviantart.com/kiki7766   
     - icon: fontawesome/brands/discord
-      link: https://discord.com/Kiki7766#1421     
+      link: https://discord.com/users/kiki7766 
   # alternate:
   #   - name: English
   #     link: /en/ 
