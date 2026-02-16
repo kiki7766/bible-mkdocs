@@ -19,7 +19,7 @@ pandas==2.0.3
 Pygments==2.15.1
 pymdown-extensions==10.20.1
 python-dateutil==2.8.2
-pytz==2023.3
+pytz==2025.2
 PyYAML==6.0.3
 pyyaml_env_tag==1.1
 regex==2023.6.3
