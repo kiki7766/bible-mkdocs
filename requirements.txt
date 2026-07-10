@@ -27,7 +27,7 @@ requests==2.34.2
 six==1.17.0
 style==1.1.6
 tabulate==0.10.0
-tzdata==2025.3
+tzdata==2026.3
 update==0.0.1
 urllib3==2.7.0
 watchdog==6.0.0
